@@ -42,6 +42,7 @@ const Header = () =>  (
       </SocialIcons>
     </Div3>
   </Container>
+
 );
 
 export default Header;
